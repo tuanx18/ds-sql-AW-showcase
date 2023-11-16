@@ -40,19 +40,19 @@ The following is an exhaustive list detailing each segment of this comprehensive
 
 ### Part 5: Introduction to Functions: Learning about Table-Returned Functions
 - URL: 
-- Description: 
+- Description: Part 5 introduces the concept of SQL functions returning tables. These functions are designed to retrieve specific sets of data from the employee database based on various input parameters. They employ a range of SQL techniques such as string manipulation, numeric comparisons, and conditional filtering to extract information. The functions are diverse, tackling different aspects of data retrieval. These functions offer a deeper understanding of how to use SQL functions to create tailored queries, leveraging parameters to extract precise datasets. This set of exercises demonstrates the versatility of SQL functions in isolating targeted information from complex databases.
 - Length: 50 Problems - 957 Lines
 - Main Knowledge: FUNCTIONS Return Tables
 
 ### Part 6: Dynamic SQL and Stored Procedures
 - URL: 
-- Description: 
+- Description: In this section, the focus shifts towards leveraging the power of dynamic SQL, stored procedures, and variable manipulation within SQL Server. The exercises delve into the realm of dynamic SQL, allowing for the creation and execution of SQL statements at runtime. Participants will engage with stored procedures, a powerful feature that encapsulates SQL logic for reuse and efficient management. The exercises showcase the usage of DECLARE and SET to handle variables within SQL Server procedures. These variables allow for the storage and manipulation of values, enabling dynamic control over queries and stored procedure behavior. Additionally, the concept of EXEC (Execute) is introduced, demonstrating its use to run dynamic SQL statements or execute stored procedures within other procedures. The tasks within this part emphasize the importance and utility of dynamic SQL in constructing adaptable and flexible queries, especially in scenarios where SQL statements need to be generated based on varying conditions or user inputs.
 - Length: 50 Problems - 761 Lines
 - Main Knowledge: Dynamic SQL, Stored Procedures, DECLARE, SET Variables, EXEC
 
 ### Part 7: Advanced Procedures and Funtion Problems
 - URL: 
-- Description: 
+- Description: Part 7 explores SQL functions' power to return tables or specific values and delves into dynamic SQL concepts. It introduces COALESCE for handling NULL values effectively and demonstrates TRY_CAST's safe data type conversion. Additionally, it covers CROSS APPLY, enabling the combination of rows from multiple tables. These exercises deepen understanding of functions' versatility, NULL value management, safe type conversions, and advanced querying techniques like CROSS APPLY.
 - Length: 50 Problems - 1051 Lines
 - Main Knowledge: FUNCTIONS Return Tables/Values, Dynamic SQL, COALESCE, TRY_CAST, CROSS APPLY
 
