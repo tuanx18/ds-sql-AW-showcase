@@ -34,7 +34,7 @@ The following is an exhaustive list detailing each segment of this comprehensive
 
 ### Part 4: SQL Shapeshifters: Introduction to Data Ranking and Splitting
 - URL: 
-- Description: 
+- Description: This set of exercises delves into multifaceted queries leveraging a combination of SQL features. It involves filtering and extracting specific data sets based on various conditions using different SQL techniques like JOIN, EXISTS, and complex calculations involving date functions, mathematical operations, and conditional statements. Tasks range from utilizing JOIN operations to derive specific information about employees, employing EXISTS for complex filtering, to utilizing PIVOT for aggregating data based on different criteria. The use of CTEs and window functions like RANK(), PARTITION BY, and NTILE() adds complexity by manipulating data partitions and performing ranking operations.
 - Length: 50 Problems - 738 Lines
 - Main Knowledge: CTE, Multi-CTE, Subqueries, EXISTS, PIVOT, CASE/WHEN, RANK, PARTITION BY, NTILE
 
