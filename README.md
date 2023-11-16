@@ -50,7 +50,7 @@ The following is an exhaustive list detailing each segment of this comprehensive
 - Length: 50 Problems - 761 Lines
 - Main Knowledge: Dynamic SQL, Stored Procedures, DECLARE, SET Variables, EXEC
 
-### Part 7: Advanced Procedures and Funtion Problems
+### Part 7: Advanced Procedures and Function Problems
 - URL: 
 - Description: Part 7 explores SQL functions' power to return tables or specific values and delves into dynamic SQL concepts. It introduces COALESCE for handling NULL values effectively and demonstrates TRY_CAST's safe data type conversion. Additionally, it covers CROSS APPLY, enabling the combination of rows from multiple tables. These exercises deepen understanding of functions' versatility, NULL value management, safe type conversions, and advanced querying techniques like CROSS APPLY.
 - Length: 50 Problems - 1051 Lines
