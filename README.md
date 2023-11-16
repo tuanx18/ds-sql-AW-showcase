@@ -26,31 +26,31 @@ The following is an exhaustive list detailing each segment of this comprehensive
 - Length: 50 Problems - 392 Lines
 - Main Knowledge Covered: Subqueries, CTE, Multi-CTE, Temporary tables, DATEPART, DATEDIFF, ROUND, CAST AS Data-type
 
-### Part 3: 
+### Part 3: SQL Metamorphosis: Crafting with REPLACE, CAST, and NTILE
 - URL: 
-- Description: 
+- Description: Part 3 delves into intermediate SQL operations, building on foundational concepts. It explores various functionalities like REPLACE, Common Table Expressions (CTEs), and conditional operations using CASE/WHEN statements. The tasks in this section involve grouping data using NTILE, conditional aggregations, and creating calculated columns based on specific conditions. These exercises challenge learners with tasks like analyzing credit ratings, implementing conditional logic for grouping data, and performing segmented computations. While not overly complex, this section presents a bridge between basic and more intricate SQL operations, offering learners a chance to expand their skills within a comfortable yet engaging environment.
 - Length: 50 Problems - 556 Lines
 - Main Knowledge: CTE, Multi-CTE, CAST, CASE/WHEN, NTILE, NEWID (Shuffle Random Order), REPLACE
 
-### Part 4: 
+### Part 4: SQL Shapeshifters: Introduction to Data Ranking and Splitting
 - URL: 
 - Description: 
 - Length: 50 Problems - 738 Lines
 - Main Knowledge: CTE, Multi-CTE, Subqueries, EXISTS, PIVOT, CASE/WHEN, RANK, PARTITION BY, NTILE
 
-### Part 5: 
+### Part 5: Introduction to Functions: Learning about Table-Returned Functions
 - URL: 
 - Description: 
 - Length: 50 Problems - 957 Lines
 - Main Knowledge: FUNCTIONS Return Tables
 
-### Part 6: 
+### Part 6: Dynamic SQL and Stored Procedures
 - URL: 
 - Description: 
 - Length: 50 Problems - 761 Lines
 - Main Knowledge: Dynamic SQL, Stored Procedures, DECLARE, SET Variables, EXEC
 
-### Part 7: 
+### Part 7: Advanced Procedures and Funtion Problems
 - URL: 
 - Description: 
 - Length: 50 Problems - 1051 Lines
