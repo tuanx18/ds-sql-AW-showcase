@@ -1,4 +1,7 @@
-# ds-sql-projects
+# SQL Projects
+
+*Author: Hoang Anh Tuan*
+
 Step into my SQL Data Engineering portfolio—an anthology of projects unveiling my finesse in sculpting data landscapes. From intricate models to streamlined processes, witness how I leverage SQL to empower insights and drive transformative solutions in the dynamic world of data engineering
 
 To highlight my proficiency in SQL commands, I have actively engaged in numerous projects that require extensive use of SQL. The primary coding platform for my SQL work is SQL Server, where I have accumulated several years of experience. This section of my portfolio serves as a comprehensive representation of my expertise, covering all aspects of SQL that I have mastered over the years.
@@ -55,6 +58,8 @@ The following is an exhaustive list detailing each segment of this comprehensive
 - Description: Part 7 explores SQL functions' power to return tables or specific values and delves into dynamic SQL concepts. It introduces COALESCE for handling NULL values effectively and demonstrates TRY_CAST's safe data type conversion. Additionally, it covers CROSS APPLY, enabling the combination of rows from multiple tables. These exercises deepen understanding of functions' versatility, NULL value management, safe type conversions, and advanced querying techniques like CROSS APPLY.
 - Length: 50 Problems - 1051 Lines
 - Main Knowledge: FUNCTIONS Return Tables/Values, Dynamic SQL, COALESCE, TRY_CAST, CROSS APPLY
+
+
 
 
 
