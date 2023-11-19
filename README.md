@@ -8,7 +8,7 @@ To highlight my proficiency in SQL commands, I have actively engaged in numerous
 
 Outlined below are the particulars of the pivotal project I have developed:
 
-## Project 1: AdventureWorks Practical SQL Project
+## Project: AdventureWorks Practical SQL Project
 
 **Note**: Taking advantage of the SQL Server's capability to import and open .bak files, I strategically used this feature by employing the AdventureWorks 2022 Database to create a significant project. This project serves as a comprehensive showcase, including a range of SQL commands from fundamental to advanced levels, covering intricate aspects such as Dynamic SQL and user functions.
 
